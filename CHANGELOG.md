@@ -1,5 +1,11 @@
 # slack-github-action
 
+## 3.0.6
+
+### Patch Changes
+
+- 654bb72: chore: provide global fetch proxied configurations with updates to web api and webhook packages
+
 ## 3.0.5
 
 ### Patch Changes
